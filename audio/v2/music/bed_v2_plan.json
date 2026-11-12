@@ -1,0 +1,100 @@
+{
+  "chunks": [
+    {
+      "text": "[Opening]",
+      "duration_ms": 27000,
+      "positive_styles": [
+        "76 BPM",
+        "D major",
+        "organic live-room Americana",
+        "no vocals",
+        "no synths",
+        "sparse fingerpicked acoustic guitar",
+        "soft dobro slide answers",
+        "unhurried, a little weary",
+        "lots of space between phrases",
+        "close-mic detail"
+      ],
+      "negative_styles": [
+        "drums",
+        "bass",
+        "strings",
+        "big build"
+      ],
+      "context_adherence": "high",
+      "conditioning_ref": null,
+      "condition_strength": null
+    },
+    {
+      "text": "[Title Hold]",
+      "duration_ms": 3500,
+      "positive_styles": [
+        "76 BPM",
+        "D major",
+        "organic live-room Americana",
+        "no vocals",
+        "no synths",
+        "near silence",
+        "a single low sustained acoustic guitar note ringing out",
+        "breath before the turn"
+      ],
+      "negative_styles": [
+        "drums",
+        "melody",
+        "strumming",
+        "busy"
+      ],
+      "context_adherence": "high",
+      "conditioning_ref": null,
+      "condition_strength": null
+    },
+    {
+      "text": "[Build]",
+      "duration_ms": 17500,
+      "positive_styles": [
+        "76 BPM",
+        "D major",
+        "organic live-room Americana",
+        "no vocals",
+        "no synths",
+        "strummed acoustic guitar enters",
+        "warm upright bass",
+        "brushed snare",
+        "gentle pedal steel swells",
+        "hopeful, quiet pride",
+        "steady forward build"
+      ],
+      "negative_styles": [
+        "electric guitar",
+        "loud drums",
+        "epic orchestral"
+      ],
+      "context_adherence": "high",
+      "conditioning_ref": null,
+      "condition_strength": null
+    },
+    {
+      "text": "[Resolve]",
+      "duration_ms": 6000,
+      "positive_styles": [
+        "76 BPM",
+        "D major",
+        "organic live-room Americana",
+        "no vocals",
+        "no synths",
+        "final ringing D major chord",
+        "pedal steel sustain",
+        "natural decay to silence",
+        "clean final cadence"
+      ],
+      "negative_styles": [
+        "new melody",
+        "abrupt ending",
+        "fade out loop"
+      ],
+      "context_adherence": "high",
+      "conditioning_ref": null,
+      "condition_strength": null
+    }
+  ]
+}
