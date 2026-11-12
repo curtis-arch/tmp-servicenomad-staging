@@ -1,0 +1,62 @@
+{
+  "round": "v2 final clips",
+  "model": "minimax/h3-max/image-to-video",
+  "resolution": "1080P",
+  "submitted": "2026-11-12",
+  "clips": {
+    "s1": {
+      "request_id": "01a1cf7f-786d-72b2-ace3-1c4cb4806277",
+      "still": "https://v3b.fal.media/files/b/0ab22915/vaNb2Do3Id41dCtz2h_1V_Z85YZLtz.jpg",
+      "duration": 5,
+      "prompt": "The white service-body truck rolls slowly toward the camera along the gravel road at dawn, dust drifting in the low golden light, headlights on. Low steady camera. Realistic."
+    },
+    "s2": {
+      "request_id": "01a1cf7f-8206-7953-846d-b5f3015fde4d",
+      "still": "https://v3b.fal.media/files/b/0ab22915/X2uK8-TXWmk79u-xTwYLg_ohb7PK98.jpg",
+      "duration": 5,
+      "prompt": "He climbs the ladder steadily, hand over hand, toward the RV roof, the tool bag swinging slightly on his shoulder. Slight handheld tilt up following him. Leaves move in the breeze. Realistic. Nobody looks at the camera."
+    },
+    "s3": {
+      "request_id": "01a1cf7f-8bb3-7d12-b8d0-5b7bd9e317b7",
+      "still": "https://raw.githubusercontent.com/curtis-arch/tmp-servicenomad-staging/main/img/IMG_3554.png",
+      "duration": 5,
+      "prompt": "Handheld documentary shot with gentle, minimal camera movement. The technician keeps working inside the open rooftop AC unit with his screwdriver. The phone lying face up in the foreground buzzes on vibrate in two short pulses: each pulse is a tiny, quick jitter of a millimeter or two, and between pulses it lies completely still. It never slides or turns. Its screen stays dark. He glances down at the phone, then goes back to his work. Leaves sway; the truck below stays parked. Realistic natural motion. Nobody looks at the camera."
+    },
+    "s4": {
+      "request_id": "01a1cf7f-9502-7db0-b6b4-318c9e207f74",
+      "still": "https://v3b.fal.media/files/b/0ab22916/EmCaUSQ9l25lv8kMKcSmi_nOodkuf9.jpg",
+      "duration": 5,
+      "prompt": "Static low camera. He keeps turning the wrench under the slide-out. The phone on the gravel buzzes on vibrate in two short pulses, each a tiny quick jitter, and lies still between them. It never slides or turns. Its screen stays dark. He turns his head toward it, hands still busy. Realistic. Nobody looks at the camera."
+    },
+    "s5": {
+      "request_id": "01a1cf7f-9e7e-7ca1-bd79-53974a61a21e",
+      "still": "https://v3b.fal.media/files/b/0ab22947/uc7l9RPzu4xR6CagXO0p6_KTWpWKcv.jpg",
+      "duration": 9,
+      "prompt": "Very slow push-in. He listens on the phone, rubs his forehead, and writes on the notepad. Behind him his wife puts away a dish and glances over at him. Quiet late-night kitchen, subtle realistic motion. Nobody looks at the camera."
+    },
+    "s6a": {
+      "request_id": "01a1cf7f-a80f-7a20-b7f6-ca77648c6378",
+      "still": "https://v3b.fal.media/files/b/0ab22916/3P1eeg_Oe9QZf3weUA-4F_lLOkBEXe.jpg",
+      "duration": 4,
+      "prompt": "Static locked-off close-up, no camera movement. The phone lies completely still, its screen stays dark. In the soft-focus background the technician keeps working on the AC unit. Leaf shadows drift slowly across the roof. Realistic."
+    },
+    "s6b": {
+      "request_id": "01a1cf7f-b15a-7833-ae75-073b00fa8c55",
+      "still": "https://raw.githubusercontent.com/curtis-arch/tmp-servicenomad-staging/main/img/IMG_3554.png",
+      "duration": 4,
+      "prompt": "Handheld documentary shot with minimal camera movement. The phone lies completely still on the roof. The technician glances down at it, gives a small satisfied nod, and goes right back to working on the AC unit, relaxed. Leaves sway. Realistic. Nobody looks at the camera."
+    },
+    "s7": {
+      "request_id": "01a1cf7f-ba58-7d92-be44-407336529d61",
+      "still": "https://v3b.fal.media/files/b/0ab2291d/t62ZsBM4fVg4ZDFkZIiVn_O6drM7BQ.jpg",
+      "duration": 5,
+      "prompt": "The woman taps her phone to the device he holds out, everyone smiles, the technician nods and shakes the husband's hand. Handheld, natural afternoon light. Realistic. Nobody looks at the camera."
+    },
+    "s8": {
+      "request_id": "01a1cf7f-c372-7620-85fa-1c79959cc6f2",
+      "still": "https://v3b.fal.media/files/b/0ab2291e/RhqyVvWZs5fXahs4QtCJD_d15NjGPl.jpg",
+      "duration": 5,
+      "prompt": "The little girl runs into his arms and he lifts her up in a hug, both laughing. Golden backlight, grass moving in the breeze. Handheld, heartfelt. Realistic. Nobody looks at the camera."
+    }
+  }
+}
