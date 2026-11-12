@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "truck_diesel_gravel",
+    "text": "Heavy diesel work truck rolling slowly across a gravel road toward the listener at dawn, tires crunching on gravel, low diesel idle, faint rattle of a metal ladder rack, distant birds",
+    "duration_seconds": 6,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "dawn_campground",
+    "text": "Texas Hill Country campground at dawn, mourning doves and songbirds, light breeze through live oak trees, very distant generator hum, no music, no voices",
+    "duration_seconds": 12,
+    "loop": true,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "ladder_climb",
+    "text": "Work boots climbing an aluminum extension ladder leaned against an RV, four steady metallic steps with slight ladder flex creaks",
+    "duration_seconds": 4,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "screwdriver_ac",
+    "text": "Screwdriver turning sheet metal screws inside an air conditioner housing, close up, small metallic clicks, a tool set down on a fiberglass roof",
+    "duration_seconds": 4,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "buzz_roof",
+    "text": "Smartphone vibrating face up on a hard fiberglass roof, two short sharp buzzes with a one second pause between, close up, no ringtone",
+    "duration_seconds": 3,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "slide_wrench",
+    "text": "Ratchet wrench clicking on a metal RV slide-out mechanism, close, man shifting on gravel underneath",
+    "duration_seconds": 4,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "buzz_gravel",
+    "text": "Smartphone vibrating face up on loose gravel, two short buzzes with a pause between, tiny stones rattling, no ringtone",
+    "duration_seconds": 3,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "kitchen_night",
+    "text": "Quiet farmhouse kitchen late at night, refrigerator hum, wall clock ticking, a dish set softly in a cabinet in the background, no voices",
+    "duration_seconds": 10,
+    "loop": true,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "title_hit",
+    "text": "Deep soft cinematic low impact with a warm round tail, like a felt kick drum in a big wooden room, no metallic ring",
+    "duration_seconds": 3,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "notify_chime",
+    "text": "Single soft warm two-note smartphone notification chime, gentle and pleasant",
+    "duration_seconds": 1.5,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "campsite_afternoon",
+    "text": "RV campground on a warm afternoon, light breeze, birds, a distant screen door, faint far-off friendly voices with no clear words, no music",
+    "duration_seconds": 6,
+    "loop": true,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "tap_to_pay",
+    "text": "Short soft contactless payment success beep from a small card reader",
+    "duration_seconds": 1,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "truck_door",
+    "text": "Heavy pickup truck door closing with a solid thunk outdoors on gravel",
+    "duration_seconds": 1.5,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "girl_laugh",
+    "text": "Little girl laughing and squealing happily as she runs across grass, then a man laughing warmly as he picks her up, outdoors",
+    "duration_seconds": 4,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "evening_yard",
+    "text": "Warm Texas summer evening in a quiet yard, crickets and cicadas, gentle breeze, a distant dog bark, no music",
+    "duration_seconds": 12,
+    "loop": true,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  {
+    "slug": "end_swell",
+    "text": "Warm soft low cinematic swell that blooms and gently settles, organic, no rising whoosh",
+    "duration_seconds": 3,
+    "loop": false,
+    "model_id": "eleven_text_to_sound_v2"
+  }
+]
